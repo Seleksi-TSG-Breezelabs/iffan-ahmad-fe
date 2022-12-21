@@ -1,0 +1,9 @@
+Arsitektur Brezee Movie
+
+Brezee Movie mengambil data API di http://omdbapi.com
+Lalu saya membuat script untuk konsunmsi API secara terpisah menggunakan file script.js di dalam folder js
+Saya memakai bootstrap secara online sebagai library CSS nya, dan membuat file utama di index.html
+borrow.html adalah from pengajuan peminjaman film dimana peminjaman film tersebut dapat di temukan di fitur detail
+setelah user mencari film di kolom search di halaman utama. ketika user mengklik borrow akan dibawa ke halaman borrow
+dimana user diminta untuk memasukan nama dan email ketika di enter atau klik tombol borrow akan muncul notif 
+"You can watch movie now"
